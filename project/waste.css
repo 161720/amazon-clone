@@ -1,0 +1,39 @@
+.big{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    border: 2px solid black;
+    padding: 10px;
+}
+.mid{
+    
+}
+.st{
+    background-image: url(box1_image.jpg);
+    height:200px;
+    width:200px;
+    background-size:  cover;
+}
+.nd{
+    background-image: url(box2_image.jpg);
+    height:200px;
+    width:200px;
+    background-size: cover;
+}
+.small{
+    
+}
+.rd{
+    background-image: url(box3_image.jpg);
+    height:200px;
+    width:200px;
+    background-size: cover;
+}    
+
+.th{
+    background-image: url(box4_image.jpg);
+    height:200px;
+    width:200px;
+    background-size: cover;
+}
+}
